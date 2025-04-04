@@ -1,0 +1,64 @@
+  
+    #imagen1{
+        position: absolute;
+        left: 15%;
+        top: 85%;
+        img{
+            height: 300px;
+            width: 200px;
+        }
+    }
+    #imagen2{
+        position: absolute;
+        left: 44%;
+        top: 85%;
+        img{
+            height: 300px;
+            width: 200px;
+        }
+    }
+    #imagen3{
+        position: absolute;
+        top: 85%;
+        left: 74%;
+        img{
+            height: 300px;
+            width: 200px;
+        }
+
+    }
+    #imagen4{
+        position: absolute;
+        left: 15%;
+        top: 150%;
+        img{
+            height: 300px;
+            width: 200px;
+        }
+        text-align: left;
+    }
+    #imagen5{
+        position: absolute;
+        img{
+            height: 300px;
+            width: 200px;
+        }
+        text-align: left;
+        top: 150%;
+        left: 44%;
+    }
+    #imagen6{
+        text-align: left;
+        position: absolute;
+        img{
+            height: 300px;
+            width: 200px;
+        }
+        top: 150%;
+        left: 74%;
+    }
+    #circulo{
+        left: 60%;
+        position: absolute;
+        top: 20%;
+    }

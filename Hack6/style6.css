@@ -1,0 +1,105 @@
+button{
+    border: 0;
+    background-color: white;
+    font-size: 40px;
+    color: #6b6b6b;
+    transform: translate(-10px, -20px)
+}
+header{
+    text-align: right;
+}
+#titulo{
+    background-image: url("/Hack6/fondoh6.png");
+    background-size: cover;
+    height: 100%;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    margin-bottom: 1000px;
+    
+    #titulo1{
+        border-radius: 40px;
+        color: aliceblue;
+        background-color: black;
+        width: 90px;
+        height: 30px;
+        align-content: center;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-left: 100px;
+        font-size: 12px;
+        font-family: 'Times New Roman', Times, serif;
+        
+         
+    }
+
+
+ #titulo2.{
+        color: black;
+        font-family:Arial, Helvetica, sans-serif;
+     }
+     .titulo2{
+        font-size: 40px;
+        margin-left:100px;
+        margin-bottom: 5px;
+        margin-top: 10px;
+        
+     }
+     p{
+        margin-left:100px;
+     }
+     #circulo{
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        background-color: #00BF63;
+        /* margin-right: 5px;
+        margin-top: 27px;
+        padding: ; */
+        text-align:center;
+        align-content: center;
+        font-size: 50px;
+        color: azure;
+
+    }
+    
+}
+
+#imagenes{
+    h2{
+        display: inline;
+        margin-right: 30px;
+        color:black;
+        font-size: 20px;
+    }
+    .monto{
+        text-decoration: line-through;
+        text-decoration-color:red ;
+
+    }
+
+}
+footer{
+    background-color: black;
+    height: 100px;
+    /* padding-top: 20px; */
+    align-content: center;
+    
+}
+.img{
+    display: inline-block;
+    font-size: 10px;
+    text-decoration: line-throug
+}
+#comprar{
+    border-radius: 40px;
+    color: aliceblue;
+    background-color: rgb(117, 203, 117);
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    font-size: 15px;
+    padding: 5px;
+    margin-left: 70px;
+}

@@ -1,0 +1,138 @@
+#circulo{
+    height: 25px;
+    width: 27px;
+    border-radius: 50%;
+    background-color: green;
+    margin-right: 5px;
+    margin-top: 27px;
+}
+header{
+    display: flex;
+    text-align: center;
+    margin: 30px 300px 30px 250px;
+    
+}
+#SOLUCIONES{
+    margin-top: 40px;
+    margin-left: 300px;
+    
+    font-size: 15px;
+}
+#parte_central{
+    /* background-image: url("/Imagen_principal.png");
+    background-position: top; */
+    margin-bottom: 100px;
+    min-height: 600px;
+    min-width: 300vh;
+    background-repeat: no-repeat;
+    background-image: url("/Hack5/Imagen_principal.png");
+    background-size: 1250px 800px;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+img{   
+    /* margin-top: 0;
+    padding-top: 0; */
+    /* position: relative; */
+    margin-top: -500px;
+}
+#h31{
+    margin-top: 150px;
+    width: 255px;
+}
+h3{
+    font-size: 40px;
+    background-color: hwb(145 3% 24%);
+    background-size: cover;
+    padding-right:-100%;
+    margin: 0px 600px 0 20px ;
+    display: inline-block;
+    width: 534px;
+    color: white;
+    margin-top: 5px;
+    padding-left: 80px;
+}
+ult{
+
+}
+#p1{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 500px;
+    padding-left: 100px  ;
+    /* display: inline-block; */
+}
+h4{
+    font-size: 30px;
+    padding-left: 150px;
+    text-align: left;
+    font-size: 40px;
+    margin-bottom: 5px;
+    
+}
+#pn{
+    
+    font-size: 20px;
+    text-align: left;
+    padding-left: 150px;
+}
+
+.img41{
+    width: 20px ;
+    height: 20px;
+    display: inline-blocks;
+
+}
+
+.section {
+    text-align: center;
+    margin: 20px;
+}
+h6{
+    color: aliceblue; 
+    background-color: rgb(87, 186, 87);  
+}
+#divfinal {
+    background-color: rgb(87, 186, 87);
+    height: 100px;
+} 
+#h61{
+    margin-left: 10px;
+}
+#h62{
+    margin-left: 200px;
+}
+#h63{
+    margin-left: 350px;
+    margin-right: 50px;
+}
+ /* aside  h6{
+    display: inline; 
+     background-color: rgb(87, 186, 87); 
+    
+     margin-top: 1000px;
+     font-size: 20px; 
+     top: 1400px;
+}  */
+
+/* /* .section i {
+    font-size: 24px; 
+    color: black; 
+    margin-right: 10px; 
+} 
+
+.section h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section h2 i {
+    margin-right: 8px; 
+}
+p{
+
+}*/

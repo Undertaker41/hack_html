@@ -1,0 +1,39 @@
+#imagenesp{
+    position: absolute;
+    top: 1250px;
+    left: 70px;
+    height: 70px;
+    /* display: contents; */
+    /* background-color: black; */
+    
+    /* text-align: center; */
+    
+}
+#img1{
+    /* text-align: center; */
+    position: absolute;
+    left: 420px;
+    /* display: inline; */
+    
+}
+#img2{
+    
+    position: absolute;
+   left: 820px; 
+}
+h6{
+    display: inline;
+}
+#divfinal{
+        position: absolute;
+        top: 1400px;
+        height: 40px;
+        display: inline; 
+        font-size: 30px;
+    
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
